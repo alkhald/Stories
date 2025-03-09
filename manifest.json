@@ -2,7 +2,7 @@
   "short_name": "قصص",
   "name": "منصة القصص التفاعلية",
   "description": "منصة لقراءة وإضافة القصص العربية.",
-  "icons": [
+  "Stories": [
     {
       "src": "stories/icon-72x72.png",
       "sizes": "72x72",
