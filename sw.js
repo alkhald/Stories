@@ -4,13 +4,13 @@ const ASSETS = [
   '/index.html',
   '/styles.css',
   '/scripts.js',
-  '/icons/icon-72x72.png',
-  '/icons/icon-96x96.png',
-  '/icons/icon-128x128.png',
-  '/icons/icon-144x144.png',
-  '/icons/icon-152x152.png',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/stories/icon-72x72.png',
+  '/stories/icon-96x96.png',
+  '/stories/icon-128x128.png',
+  '/stories/icon-144x144.png',
+  '/stories/icon-152x152.png',
+  '/stories/icon-192x192.png',
+  '/stories/icon-512x512.png'
 ];
 
 // تثبيت Service Worker
